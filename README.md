@@ -1,3 +1,9 @@
+When the aspiration is like the dawn of the morning, it is a glorious sunrise that leads us forward.
+aspiration: To create a fundamental rule and ecosystem of sustainable profitability for a wide range of people.
+Let Web3er's effective behavior generate valuable value.
+Let our effective labor become our passive income.
+Let you and I, who silently struggle for our ideals, shine brightly together.
+
 · 當願景如清晨的曙光，引領我們前進的便是光彩奪目的朝陽。
 
 · 願景：為廣泛的人群創造一個可持續獲利的基本規則和生態系統。
@@ -7,12 +13,6 @@
 · 讓我們的有效勞動，成為我們的被動收入。
 
 · 讓默默為理想付出的你和我耀光共閃。
-
-When the aspiration is like the dawn of the morning, it is a glorious sunrise that leads us forward.
-aspiration: To create a fundamental rule and ecosystem of sustainable profitability for a wide range of people.
-Let Web3er's effective behavior generate valuable value.
-Let our effective labor become our passive income.
-Let you and I, who silently struggle for our ideals, shine brightly together.
 
 # UBI-Element白皮书中文版0.1
 
@@ -24,7 +24,8 @@ Let you and I, who silently struggle for our ideals, shine brightly together.
 
 本白皮书中将广泛的引用上述独立论述中的观点结论等。同时将不再赘述相关结论案例等的一般性解释。
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4fc0a84e-ccec-4699-8754-b78b6cbabe1b/Untitled.png)
+![image](https://github.com/UBI-Element/UBI-Element-0.1/assets/137982747/cfc9a29f-e487-4e92-96e6-91d3769f7206)
+
 
 ## 第一部分：UBI的历史趋势
 
