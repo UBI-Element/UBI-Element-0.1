@@ -1,8 +1,13 @@
 When the aspiration is like the dawn of the morning, it is a glorious sunrise that leads us forward.
-aspiration:To create a fundamental rule and ecosystem of sustainable profitability for a wide range of people.
+
+Aspiration:To create a fundamental rule and ecosystem of sustainable profitability for a wide range of people.
+
 Let Web3er's effective behavior generate valuable value.
+
 Let our effective labor become our passive income.
+
 Let you and I, who silently struggle for our ideals, shine brightly together.
+
 
 · 當願景如清晨的曙光，引領我們前進的便是光彩奪目的朝陽。
 
